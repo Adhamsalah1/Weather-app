@@ -1,0 +1,28 @@
+body{
+    background-color: #232335;
+    color: aliceblue;
+}
+.search{
+    display: flex;
+    margin-left: auto;
+    margin-right:auto ;
+    margin-top: 70px;
+    width:35% ;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+.ptn{
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.city{
+    
+}
+.temp{
+    font-family: sans-serif;
+}
+.text{
+    margin-left: 45%;
+    margin-top: 20px;
+}
